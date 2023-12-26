@@ -1,2 +1,4 @@
 .pio
 .vscode
+src/board_hal.cpp
+include/board_config.h
